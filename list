@@ -1,1 +1,2 @@
 /api/webhooks/
+/api/webhooks/*.discord.com
